@@ -1,0 +1,7 @@
+[license]
+    Name = "license"
+    URL = "/license"
+
+[github]
+    Name = "github"
+    URL = "https://github.com/dafondo"

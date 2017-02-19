@@ -1,0 +1,62 @@
+languageCode = "en-us"
+title = "Austin Wang"
+baseurl = "http://dafondo.github.io/"
+copyright = "(c) 2017 Austin Wang."
+
+# Theme to use
+theme = "hyde-y"
+
+# Pagination
+paginate = 10
+paginatePath = "page"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+    code = "/:slug/"
+    project = "/:slug/"
+
+[taxonomies]
+    tag = "tags"
+    topic = "topics"
+    tool = "tools"
+
+[author]
+    name = "Austin Wang"
+    email = "austin.wang0311@gmail.com"
+
+[params]
+    # You can use markdown here.
+    brand = "Austin Wang"
+    topline = "just your average cs undergrad"
+    footline = ""
+
+    # Sidebar position
+    # false, true, "left", "right"
+    sidebar = "left"
+
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is "Home".
+    home = "home"
+
+    # Select a syntax highight.
+    # Check the static/css/highlight directory for options.
+    highlight = "default"
+
+    # Google Analytics.
+    googleAnalytics = "Your Google Analytics tracking code"
+
+    # Sidebar social links.
+    github = "Dafondo" # Your Github profile ID
+    bitbucket = "" # Your Bitbucket profile ID
+    linkedin = "" # Your LinkedIn profile ID (from public URL)
+    googleplus = "" # Your Google+ profile ID
+    facebook = "" # Your Facebook profile ID
+    twitter = "" # Your Twitter profile ID
+    youtube = ""  # Your Youtube channel ID
+    flattr = ""  # populate with your flattr uid
+    flickr = "" # Your Flickr profile ID
+    vimeo = "" # Your Vimeo profile ID
+
+    # Sidebar RSS link: will only show up if there is a RSS feed
+    # associated with the current page
+    rss = true

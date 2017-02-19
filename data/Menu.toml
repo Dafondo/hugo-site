@@ -1,0 +1,9 @@
+[posts]
+    Name = "posts"
+    Title = "Show list of posts"
+    URL = "/post"
+
+[projects]
+    Name = "projects"
+    Title = "Show list of projects"
+    URL = "/project"

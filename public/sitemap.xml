@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://dafondo.github.io/personal-website/</loc>
+    <lastmod>2017-02-18T22:07:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dafondo.github.io/farewell-simulator/</loc>
+    <lastmod>2017-01-22T15:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dafondo.github.io/</loc>
+    <lastmod>2017-02-18T22:07:31-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dafondo.github.io/tools/css/</loc>
+    <lastmod>2017-02-18T22:07:31-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dafondo.github.io/tools/html/</loc>
+    <lastmod>2017-02-18T22:07:31-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dafondo.github.io/tools/hugo/</loc>
+    <lastmod>2017-02-18T22:07:31-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dafondo.github.io/tools/javascript/</loc>
+    <lastmod>2017-02-18T22:07:31-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dafondo.github.io/tools/piskelapp/</loc>
+    <lastmod>2017-01-22T15:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dafondo.github.io/project/</loc>
+    <lastmod>2017-02-18T22:07:31-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dafondo.github.io/tools/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
