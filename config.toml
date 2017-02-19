@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Austin Wang"
-baseurl = "http://dafondo.github.io/"
+baseurl = "https://dafondo.github.io/"
 copyright = "(c) 2017 Austin Wang."
 
 # Theme to use
