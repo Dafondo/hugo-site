@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on Austin Wang</title>
+    <link>http://dafondo.github.io/tools/javascript/index.xml</link>
+    <description>Recent content in Javascript on Austin Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>austin.wang0311@gmail.com (Austin Wang)</managingEditor>
+    <webMaster>austin.wang0311@gmail.com (Austin Wang)</webMaster>
+    <copyright>(c) 2017 Austin Wang.</copyright>
+    <atom:link href="http://dafondo.github.io/tools/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Personal Website</title>
+      <link>http://dafondo.github.io/personal-website/</link>
+      <pubDate>Sat, 18 Feb 2017 22:07:31 -0500</pubDate>
+      <author>austin.wang0311@gmail.com (Austin Wang)</author>
+      <guid>http://dafondo.github.io/personal-website/</guid>
+      <description>&lt;p&gt;You&amp;rsquo;re here right now! This website allows me to easily share my projects with the world. It&amp;rsquo;s built on &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, an amazing static website engine, with the &lt;a href=&#34;https://github.com/enten/hyde-y&#34;&gt;Hyde-Y&lt;/a&gt; theme.&lt;/p&gt;
+
+&lt;p&gt;Originally I planned to use Jekyll, a different static site generator, but I began noticing some performance issues, so I switched to Hugo.&lt;/p&gt;
+
+&lt;p&gt;Through this project, I definitely gained some insight into how static site generators handle and organize data. Hugo makes it really easy to get a site up and running while still being flexible enough to mold to my personal needs. The only entry barrier is learning the organization schemes each generator likes to use.&lt;/p&gt;
+
+&lt;p&gt;Recently I&amp;rsquo;ve received requests from friends to help them create personal websites. One of the main problems is finding a platform that&amp;rsquo;s easily maintainable by less technically-inclined people. For this reason, I&amp;rsquo;m not sure I&amp;rsquo;d recommend Jekyll or Hugo to my friends. I still think platforms like WordPress and Squarespace are better suited for this job.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Farewell Simulator</title>
+      <link>http://dafondo.github.io/farewell-simulator/</link>
+      <pubDate>Sun, 22 Jan 2017 15:00:00 -0500</pubDate>
+      <author>austin.wang0311@gmail.com (Austin Wang)</author>
+      <guid>http://dafondo.github.io/farewell-simulator/</guid>
+      <description>&lt;p&gt;My team and I made this game at Global Game Jam 2017. The theme of the game jam was &amp;ldquo;waves&amp;rdquo;, which my group interpreted as the hand motion used to say goodbye.&lt;/p&gt;
+
+&lt;p&gt;In this game, you (a mighty general) are waving guests out of your house after a wonderful and exciting soirée. Unfortunately, you live beside a busy multi-lane highway and all of your guests decided to park across the street. The party left them a little tipsy so they&amp;rsquo;re at high risk for vehicular collision. The good news is that your guests have great respect for you as a friend and a general. When you wave at them, they stop in their tracks and wave back. Using your military experience and tactical prowess, you must guide them across the highway by waving at them.&lt;/p&gt;
+
+&lt;p&gt;The only control in this game is wiggling your cursor across the screen to wave at guests. There&amp;rsquo;s also a camera mode that is meant to work with hand detection, but it requires high contrast between hand and background, so it doesn&amp;rsquo;t work very well.&lt;/p&gt;
+
+&lt;p&gt;The default game mode is campaign which features a few preset levels designed by hand; these levels are all solvable. Survival mode is an endless high score mode that features randomly generated levels.&lt;/p&gt;
+
+&lt;p&gt;I was responsible for creating most of the artwork (to see all of the sprites please play survival mode). I wrote only a small amount of the code/style, and the little that I did write was eventually refactored and rewritten.&lt;/p&gt;
+
+&lt;p&gt;I came into GGJ with no teammates and no ideas; I wasn&amp;rsquo;t even sure I would stick around for the entire event. After they announced the theme (waves), there was a brainstorming session where we tossed around ideas. Two other jammers approached me to talk about my ideas and we formed a team. The fourth member of our team joined the next day.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
