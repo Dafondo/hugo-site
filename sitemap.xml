@@ -2,59 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://dafondo.github.io/personal-website/</loc>
+    <loc>http://dafondo.github.io/hugo-site/personal-website/</loc>
     <lastmod>2017-02-18T22:07:31-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://dafondo.github.io/farewell-simulator/</loc>
+    <loc>http://dafondo.github.io/hugo-site/farewell-simulator/</loc>
     <lastmod>2017-01-22T15:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://dafondo.github.io/</loc>
+    <loc>http://dafondo.github.io/hugo-site/</loc>
     <lastmod>2017-02-18T22:07:31-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dafondo.github.io/tools/css/</loc>
+    <loc>http://dafondo.github.io/hugo-site/tools/css/</loc>
     <lastmod>2017-02-18T22:07:31-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dafondo.github.io/tools/html/</loc>
+    <loc>http://dafondo.github.io/hugo-site/tools/html/</loc>
     <lastmod>2017-02-18T22:07:31-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dafondo.github.io/tools/hugo/</loc>
+    <loc>http://dafondo.github.io/hugo-site/tools/hugo/</loc>
     <lastmod>2017-02-18T22:07:31-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dafondo.github.io/tools/javascript/</loc>
+    <loc>http://dafondo.github.io/hugo-site/tools/javascript/</loc>
     <lastmod>2017-02-18T22:07:31-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dafondo.github.io/tools/piskelapp/</loc>
+    <loc>http://dafondo.github.io/hugo-site/tools/piskelapp/</loc>
     <lastmod>2017-01-22T15:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dafondo.github.io/project/</loc>
+    <loc>http://dafondo.github.io/hugo-site/project/</loc>
     <lastmod>2017-02-18T22:07:31-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dafondo.github.io/tools/</loc>
+    <loc>http://dafondo.github.io/hugo-site/tools/</loc>
     <priority>0</priority>
   </url>
   
