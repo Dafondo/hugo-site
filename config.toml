@@ -13,7 +13,7 @@ paginatePath = "page"
 [permalinks]
     post = "/:year/:month/:day/:slug/"
     code = "/:slug/"
-    project = "/:slug/"
+    projects = "/:slug/"
 
 [taxonomies]
     tag = "tags"

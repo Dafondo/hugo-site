@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photoshop on Austin Wang</title>
+    <link>https://dafondo.github.io/tools/photoshop/index.xml</link>
+    <description>Recent content in Photoshop on Austin Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>austin.wang0311@gmail.com (Austin Wang)</managingEditor>
+    <webMaster>austin.wang0311@gmail.com (Austin Wang)</webMaster>
+    <copyright>(c) 2017 Austin Wang.</copyright>
+    <atom:link href="https://dafondo.github.io/tools/photoshop/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A Rhythm Arena</title>
+      <link>https://dafondo.github.io/project/a-rhythm-arena/</link>
+      <pubDate>Tue, 21 Feb 2017 20:44:03 -0500</pubDate>
+      <author>austin.wang0311@gmail.com (Austin Wang)</author>
+      <guid>https://dafondo.github.io/project/a-rhythm-arena/</guid>
+      <description>
+
+&lt;p&gt;Links: &lt;a href=&#34;https://github.com/Dafondo/a-rhythm-arena&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;wazzit&#34;&gt;Wazzit?&lt;/h3&gt;
+
+&lt;p&gt;This game is meant to be a switch-accessible, rhythm-based arena fighter.
+As part of a project for a digital humanities research class, the purpose of
+this project is to provide an inclusive and exciting game for those with motor
+disabilities. However, the game is not meant to be solely for the motor-impaired.
+We want all people to be able to enjoy the game and hope to promote interaction
+between them.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

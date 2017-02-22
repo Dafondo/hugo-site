@@ -1,7 +1,7 @@
-[posts]
-    Name = "posts"
-    Title = "Show list of posts"
-    URL = "/post"
+# [posts]
+#     Name = "posts"
+#     Title = "Show list of posts"
+#     URL = "/post"
 
 [projects]
     Name = "projects"

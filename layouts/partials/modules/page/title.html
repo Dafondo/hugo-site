@@ -1,0 +1,9 @@
+{{ if .IsPage }}
+  {{ if .Draft }}
+    {{ .Site.Data.Strings.draft }} ::
+  {{ end }}
+  {{ if .Params.indev }}
+    {{ .Site.Data.Strings.indev }} ::
+  {{ end }}
+{{ end }}
+{{ .Title }}

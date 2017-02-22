@@ -1,10 +1,15 @@
 <section id="main-content" class="container main_content homepage">
   <header class="container header">
-    {{ partial "bloc/content/h1-title" . }}
+    <!-- {{ partial "bloc/content/h1-title" . }} -->
+    <h1>Welcome!</h1>
   </header>
-  {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+  <!-- {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
   {{ range $paginator.Pages }}
     {{ .Render "summary" }}
   {{ end }}
-  {{ partial "bloc/content/pagination" . }}
+  {{ partial "bloc/content/pagination" . }} -->
+  <img src="/images/background.jpg">
+  <p></p>
+  <h3>This is me, Austin.</h3>
+  <p>I'm an undergraduate CS major at UNC-CH. Please use the navigation menu to the left (or above if on mobile) to find what you're looking for.</p>
 </section>

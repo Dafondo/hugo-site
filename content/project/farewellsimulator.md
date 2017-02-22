@@ -2,13 +2,17 @@
 date = "2017-01-22T15:00:00-05:00"
 title = "Farewell Simulator"
 draft = false
+indev = false
 tools = ["Javascript", "HTML", "CSS", "PiskelApp"]
-github = "https://github.com/QuadmasterXLII/memeClient"
+github = "https://github.com/QuadmasterXLII/farewell-simulator"
 link = "http://globalgamejam.org/2017/games/farewell-simulator"
 
 +++
+Links: [Github], [GGJ Team Page], [Play Now!]
 
 Teammates: [Brandon Davis], [Hastings Greer], [Forrest Li]
+
+<img src="/images/farewell-sim.png" width="400" height="400" />
 
 ### Wazzit?
 My team and I made this game at Global Game Jam 2017. The theme of the game jam was "waves", which my group interpreted as the hand motion used to say goodbye.
@@ -24,6 +28,9 @@ The default game mode is campaign which features a few preset levels designed by
 ### My Role
 I was responsible for creating most of the artwork (to see all of the sprites please play survival mode). I wrote only a small amount of the code/style, and the little that I did write was eventually refactored and rewritten.
 
+[Github]: https://github.com/QuadmasterXLII/farewell-simulator
+[GGJ Team Page]: http://globalgamejam.org/2017/games/farewell-simulator
+[Play Now!]: https://quadmasterxlii.github.io/farewell-simulator/
 [Brandon Davis]: https://subdavis.com/
 [Hastings Greer]: http://hgreer.com/flask/
 [Forrest Li]: http://forrestli.com/

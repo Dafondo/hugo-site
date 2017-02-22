@@ -12,22 +12,57 @@
     <atom:link href="https://dafondo.github.io/tools/piskelapp/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Rhythm Arena</title>
+      <link>https://dafondo.github.io/project/a-rhythm-arena/</link>
+      <pubDate>Tue, 21 Feb 2017 20:44:03 -0500</pubDate>
+      <author>austin.wang0311@gmail.com (Austin Wang)</author>
+      <guid>https://dafondo.github.io/project/a-rhythm-arena/</guid>
+      <description>
+
+&lt;p&gt;Links: &lt;a href=&#34;https://github.com/Dafondo/a-rhythm-arena&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;wazzit&#34;&gt;Wazzit?&lt;/h3&gt;
+
+&lt;p&gt;This game is meant to be a switch-accessible, rhythm-based arena fighter.
+As part of a project for a digital humanities research class, the purpose of
+this project is to provide an inclusive and exciting game for those with motor
+disabilities. However, the game is not meant to be solely for the motor-impaired.
+We want all people to be able to enjoy the game and hope to promote interaction
+between them.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Farewell Simulator</title>
-      <link>https://dafondo.github.io/farewell-simulator/</link>
+      <link>https://dafondo.github.io/project/farewellsimulator/</link>
       <pubDate>Sun, 22 Jan 2017 15:00:00 -0500</pubDate>
       <author>austin.wang0311@gmail.com (Austin Wang)</author>
-      <guid>https://dafondo.github.io/farewell-simulator/</guid>
-      <description>&lt;p&gt;My team and I made this game at Global Game Jam 2017. The theme of the game jam was &amp;ldquo;waves&amp;rdquo;, which my group interpreted as the hand motion used to say goodbye.&lt;/p&gt;
+      <guid>https://dafondo.github.io/project/farewellsimulator/</guid>
+      <description>
+
+&lt;p&gt;Links: &lt;a href=&#34;https://github.com/QuadmasterXLII/farewell-simulator&#34;&gt;Github&lt;/a&gt;, &lt;a href=&#34;http://globalgamejam.org/2017/games/farewell-simulator&#34;&gt;GGJ Team Page&lt;/a&gt;, &lt;a href=&#34;https://quadmasterxlii.github.io/farewell-simulator/&#34;&gt;Play Now!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Teammates: &lt;a href=&#34;https://subdavis.com/&#34;&gt;Brandon Davis&lt;/a&gt;, &lt;a href=&#34;http://hgreer.com/flask/&#34;&gt;Hastings Greer&lt;/a&gt;, &lt;a href=&#34;http://forrestli.com/&#34;&gt;Forrest Li&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://dafondo.github.io/images/farewell-sim.png&#34; width=&#34;400&#34; height=&#34;400&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;wazzit&#34;&gt;Wazzit?&lt;/h3&gt;
+
+&lt;p&gt;My team and I made this game at Global Game Jam 2017. The theme of the game jam was &amp;ldquo;waves&amp;rdquo;, which my group interpreted as the hand motion used to say goodbye.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-plot&#34;&gt;The Plot!&lt;/h3&gt;
 
 &lt;p&gt;In this game, you (a mighty general) are waving guests out of your house after a wonderful and exciting soirée. Unfortunately, you live beside a busy multi-lane highway and all of your guests decided to park across the street. The party left them a little tipsy so they&amp;rsquo;re at high risk for vehicular collision. The good news is that your guests have great respect for you as a friend and a general. When you wave at them, they stop in their tracks and wave back. Using your military experience and tactical prowess, you must guide them across the highway by waving at them.&lt;/p&gt;
+
+&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;
 
 &lt;p&gt;The only control in this game is wiggling your cursor across the screen to wave at guests. There&amp;rsquo;s also a camera mode that is meant to work with hand detection, but it requires high contrast between hand and background, so it doesn&amp;rsquo;t work very well.&lt;/p&gt;
 
 &lt;p&gt;The default game mode is campaign which features a few preset levels designed by hand; these levels are all solvable. Survival mode is an endless high score mode that features randomly generated levels.&lt;/p&gt;
 
-&lt;p&gt;I was responsible for creating most of the artwork (to see all of the sprites please play survival mode). I wrote only a small amount of the code/style, and the little that I did write was eventually refactored and rewritten.&lt;/p&gt;
+&lt;h3 id=&#34;my-role&#34;&gt;My Role&lt;/h3&gt;
 
-&lt;p&gt;I came into GGJ with no teammates and no ideas; I wasn&amp;rsquo;t even sure I would stick around for the entire event. After they announced the theme (waves), there was a brainstorming session where we tossed around ideas. Two other jammers approached me to talk about my ideas and we formed a team. The fourth member of our team joined the next day.&lt;/p&gt;
+&lt;p&gt;I was responsible for creating most of the artwork (to see all of the sprites please play survival mode). I wrote only a small amount of the code/style, and the little that I did write was eventually refactored and rewritten.&lt;/p&gt;
 </description>
     </item>
     
