@@ -9,7 +9,7 @@ github = "https://github.com/Dafondo/a-rhythm-arena"
 +++
 Links: [Github]
 
-### Wazzit?
+### The Gist
 This game is meant to be a switch-accessible, rhythm-based arena fighter.
 As part of a project for a digital humanities research class, the purpose of
 this project is to provide an inclusive and exciting game for those with motor
